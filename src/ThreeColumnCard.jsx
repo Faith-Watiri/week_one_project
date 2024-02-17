@@ -1,5 +1,5 @@
 import React from 'react';
-import './ThreeColumnCard.css';
+// import './ThreeColumnCard.css';
 
 
 const ThreeColumnCard = () => {

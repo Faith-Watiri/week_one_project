@@ -1,5 +1,6 @@
 import React from 'react';
-import ThreeColumnCard from './Components/ThreeColumnCard';
+import ThreeColumnCard from './ThreeColumnCard';
+
 
 function App() {
     return ( 
