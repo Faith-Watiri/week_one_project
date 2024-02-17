@@ -1,13 +1,11 @@
 import React from 'react';
-import ThreeColumnCard from './ThreeColumnCard';
-
+import ThreeColumnCard from './components/ThreeColumnCard';
+import './App.css';
 
 function App() {
-    return ( 
-
-        <div className ="App" >
+    return (
+        <div className ="main-section">
             <ThreeColumnCard />
-
         </div>
     );
 }
